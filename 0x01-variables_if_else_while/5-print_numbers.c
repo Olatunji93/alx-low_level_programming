@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints all single digit numbers of base 10 starting from 0
+ * main - Entry point
  *
- * Retun: Always 0
+ * Retun: Always 0 (Success)
  */
 int main(void)
 {
