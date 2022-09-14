@@ -2,7 +2,7 @@
 /**
  * Description - Prints alphabets to output
  */
-void print alphabets(void)
+void print_alphabets(void)
 {
 	int ch;
 
