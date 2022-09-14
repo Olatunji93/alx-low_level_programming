@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * Description - print_alphabet
+ * Description - Prints alphabets to output
  */
-void print_alphabet(void)
+void print alphabets(void)
 {
 	int ch;
 
